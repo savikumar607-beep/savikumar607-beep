@@ -95,11 +95,8 @@ Currently exploring frontend development and building projects with:
 
 | Platform | Resource |
 |---|---|
-| YouTube | [Learn Programming](https://www.youtube.com/) |
 | LeetCode | [Practice Problems](https://leetcode.com/) |
 | GeeksforGeeks | [DSA Tutorials](https://www.geeksforgeeks.org/) |
-| W3Schools | [Web Development](https://www.w3schools.com/) |
-| MDN | [Web Documentation](https://developer.mozilla.org/) |
 | GitHub | [Projects & Open Source](https://github.com/) |
 
 ## 📊 GitHub Statistics
